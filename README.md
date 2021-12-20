@@ -10,7 +10,9 @@ This is an application developed using the App designer tool in MATLAB R2021a fo
    - Between the two sections there is a button which contains the application functionality.
 
 # Design
-![MM01](https://user-images.githubusercontent.com/68661639/146844810-30fe9743-605c-46d5-9ce1-65089ad9359e.JPG)
 
 Application at the start state.
+![MM01](https://user-images.githubusercontent.com/68661639/146844810-30fe9743-605c-46d5-9ce1-65089ad9359e.JPG)
+
+
 
