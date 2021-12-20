@@ -15,5 +15,20 @@ This is an application developed using the App designer tool in MATLAB R2021a fo
 
 Application at the start state.
 
+# Results
+
+![MM02](https://user-images.githubusercontent.com/68661639/146844980-5efd3486-674e-4762-a7df-3b621a666d57.JPG)
+
+f(x) = x  , simple Linear Function
+
+![MM03](https://user-images.githubusercontent.com/68661639/146845010-c99f0332-edf7-4654-bf26-25c5f556d54a.JPG)
+
+f(x) = x² , Simple Quadratic Function
+
+![MM05](https://user-images.githubusercontent.com/68661639/146845072-a8629029-4dcc-47c0-8f3c-51ca04a8d065.JPG)
+
+f(x) = √x 
+
+
 
 
