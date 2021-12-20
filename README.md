@@ -1,5 +1,5 @@
 # Master-Micro-Softrware-Intern-Task-01
-This is an application developed using the App designer tool in MATLAB R2021a for Master Micro Software Internship 2022.
+- This is an application developed using the App designer tool in MATLAB R2021a for Master Micro Software Internship 2022.
 
 # Description
 
