@@ -15,6 +15,17 @@ This is an application developed using the App designer tool in MATLAB R2021a fo
 
 Application at the start state.
 
+# Code
+
+![MM11](https://user-images.githubusercontent.com/68661639/146846926-a7927a84-6f9c-4919-98d5-b76d141aa94c.JPG)
+
+![MM12](https://user-images.githubusercontent.com/68661639/146846941-1d62de48-d67c-4e09-930b-3602d138e79c.JPG)
+
+![MM13](https://user-images.githubusercontent.com/68661639/146846945-2f2f4d71-0f97-4a55-940b-f5abee28aa8d.JPG)
+
+Code snapshots from the App designer devided into three sections ( Input - Error Check Technique - Output).
+
+
 # Results
 
 ![MM02](https://user-images.githubusercontent.com/68661639/146844980-5efd3486-674e-4762-a7df-3b621a666d57.JPG)
