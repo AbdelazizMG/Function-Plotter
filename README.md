@@ -27,7 +27,23 @@ f(x) = x² , Simple Quadratic Function
 
 ![MM05](https://user-images.githubusercontent.com/68661639/146845072-a8629029-4dcc-47c0-8f3c-51ca04a8d065.JPG)
 
-f(x) = √x 
+f(x) = √x , Root Function
+
+![MM04](https://user-images.githubusercontent.com/68661639/146845178-3ff55f30-4092-457f-9443-132e44c45aca.JPG)
+
+f(x) = 5x3+2x , Task PDF example
+
+![MM06](https://user-images.githubusercontent.com/68661639/146845442-16d6d71c-257c-4bb0-8c3a-63dc523aea18.JPG)
+
+![MM07](https://user-images.githubusercontent.com/68661639/146845457-0e3f501e-52d0-4d82-9e48-ffde43eaa551.JPG)
+
+![MM08](https://user-images.githubusercontent.com/68661639/146845470-a97cbba0-7462-471b-9367-e0e245470bac.JPG)
+
+Wrong user input examples.
+
+
+
+
 
 
 
