@@ -24,7 +24,7 @@ Application at the start state.
 ![MM13](https://user-images.githubusercontent.com/68661639/146846945-2f2f4d71-0f97-4a55-940b-f5abee28aa8d.JPG)
 
 Code snapshots from the App designer devided into three sections ( Input - Error Check Technique - Output).
-White area in the snapshots is the developer area and the gray one is blocked and cannot be accessed as its
+White area in the snapshots is the developer area and the gray one is blocked and cannot be accessed as it's
 defualt area from the tool.
 
 # Results
