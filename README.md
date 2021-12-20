@@ -13,7 +13,7 @@
 
 ![MM01](https://user-images.githubusercontent.com/68661639/146844810-30fe9743-605c-46d5-9ce1-65089ad9359e.JPG)
 
-Application at the start state.
+- Application at the start state.
 
 # Code
 
@@ -23,7 +23,7 @@ Application at the start state.
 
 ![MM13](https://user-images.githubusercontent.com/68661639/146846945-2f2f4d71-0f97-4a55-940b-f5abee28aa8d.JPG)
 
-Code snapshots from the App designer devided into three sections ( Input - Error Check Technique - Output).
+- Code snapshots from the App designer devided into three sections ( Input - Error Check Technique - Output).
 White area in the snapshots is the developer area and the gray one is blocked and cannot be accessed as it's
 defualt area from the tool.
 
@@ -31,28 +31,28 @@ defualt area from the tool.
 
 ![MM02](https://user-images.githubusercontent.com/68661639/146844980-5efd3486-674e-4762-a7df-3b621a666d57.JPG)
 
-f(x) = x  , simple Linear Function
+- f(x) = x  , simple Linear Function
 
 ![MM03](https://user-images.githubusercontent.com/68661639/146845010-c99f0332-edf7-4654-bf26-25c5f556d54a.JPG)
 
-f(x) = x² , Simple Quadratic Function
+- f(x) = x² , Simple Quadratic Function
 
 ![MM05](https://user-images.githubusercontent.com/68661639/146845072-a8629029-4dcc-47c0-8f3c-51ca04a8d065.JPG)
 
-f(x) = √x , Root Function
+- f(x) = √x , Root Function
 
 ![MM09](https://user-images.githubusercontent.com/68661639/146846269-9a2cd3f5-4e47-427f-ad3a-0943b6a83489.JPG)
 
-f(x) = sin(x) , Trigonometric Function
+- f(x) = sin(x) , Trigonometric Function
 
 ![MM10](https://user-images.githubusercontent.com/68661639/146846285-327ad05d-cd04-4ee4-a53f-acfc28fc6574.JPG)
 
-f(x) = cos(x) , Trigonometric Function
+- f(x) = cos(x) , Trigonometric Function
 
 
 ![MM04](https://user-images.githubusercontent.com/68661639/146845178-3ff55f30-4092-457f-9443-132e44c45aca.JPG)
 
-f(x) = 5x3+2x , Task PDF example
+- f(x) = 5x3+2x , Task PDF example
 
 ![MM06](https://user-images.githubusercontent.com/68661639/146845442-16d6d71c-257c-4bb0-8c3a-63dc523aea18.JPG)
 
@@ -60,7 +60,7 @@ f(x) = 5x3+2x , Task PDF example
 
 ![MM08](https://user-images.githubusercontent.com/68661639/146845470-a97cbba0-7462-471b-9367-e0e245470bac.JPG)
 
-Wrong user input examples.
+- Wrong user input examples.
 
 
 
