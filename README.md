@@ -29,6 +29,15 @@ f(x) = x² , Simple Quadratic Function
 
 f(x) = √x , Root Function
 
+![MM09](https://user-images.githubusercontent.com/68661639/146846269-9a2cd3f5-4e47-427f-ad3a-0943b6a83489.JPG)
+
+f(x) = sin(x) , Trigonometric Function
+
+![MM10](https://user-images.githubusercontent.com/68661639/146846285-327ad05d-cd04-4ee4-a53f-acfc28fc6574.JPG)
+
+f(x) = cos(x) , Trigonometric Function
+
+
 ![MM04](https://user-images.githubusercontent.com/68661639/146845178-3ff55f30-4092-457f-9443-132e44c45aca.JPG)
 
 f(x) = 5x3+2x , Task PDF example
